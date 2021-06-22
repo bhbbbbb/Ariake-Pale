@@ -54,9 +54,9 @@ This theme is released under the [MIT License](https://github.com/whizkydee/vsco
     <br />
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/seangoats/Ariake-Pale/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/seangoats/Ariake-Pale/issues">Request Feature</a>
   </p>
 </p>
 
