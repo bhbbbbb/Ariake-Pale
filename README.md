@@ -76,9 +76,9 @@ This theme is released under the [MIT License](https://github.com/whizkydee/vsco
 <!-- Screenshots -->
 ### Screenshots
 
-![JSX Demo](screenshots\jsxdemo.jpg)
+![JSX Demo](https://raw.githubusercontent.com/seangoats/Ariake-Pale/master/screenshots/jsxdemo.jpg)
 
-![CSS Demo](screenshots\cssdemo.jpg)
+![CSS Demo](https://raw.githubusercontent.com/seangoats/Ariake-Pale/master/screenshots/cssdemo.jpg)
 
 <!-- CONTRIBUTING -->
 ### Contributing
