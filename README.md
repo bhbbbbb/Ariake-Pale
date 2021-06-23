@@ -1,4 +1,4 @@
-<!-- 
+<!--
 
 # Ariake-Pale Theme
 
@@ -21,8 +21,6 @@ This theme is released under the [MIT License](https://github.com/whizkydee/vsco
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -30,17 +28,11 @@ This theme is released under the [MIT License](https://github.com/whizkydee/vsco
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
-
-
 
 <br />
 <p align="center">
@@ -60,8 +52,6 @@ This theme is released under the [MIT License](https://github.com/whizkydee/vsco
   </p>
 </p>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -74,15 +64,18 @@ This theme is released under the [MIT License](https://github.com/whizkydee/vsco
 </details>
 
 <!-- Screenshots -->
+
 ### Screenshots
 
 ![JSX Demo](https://raw.githubusercontent.com/seangoats/Ariake-Pale/master/screenshots/jsxdemo.jpg)
 
 ![CSS Demo](https://raw.githubusercontent.com/seangoats/Ariake-Pale/master/screenshots/cssdemo.jpg)
 
-<!-- CONTRIBUTING -->
-### Contributing
+![HTML Demo](https://raw.githubusercontent.com/seangoats/Ariake-Pale/master/screenshots/htmldemo.jpg)
 
+<!-- CONTRIBUTING -->
+
+### Contributing
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -90,33 +83,23 @@ This theme is released under the [MIT License](https://github.com/whizkydee/vsco
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
+
 ### License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
+
 ### Contact
 
 Creator: [@seangoats](https://github.com/seangoats)
 
 Project Link: [https://github.com/seangoats/Ariake-Pale](https://github.com/seangoats/Ariake-Pale)
 
-
-
-
-
-
-
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/seangoats/Ariake-Pale?style=for-the-badge
 [contributors-url]: https://github.com/seangoats/Ariake-Pale/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/seangoats/Ariake-Pale?style=for-the-badge
@@ -127,13 +110,3 @@ Project Link: [https://github.com/seangoats/Ariake-Pale](https://github.com/sean
 [issues-url]: https://github.com/seangoats/Ariake-Pale/issues
 [license-shield]: https://img.shields.io/github/license/seangoats/Ariake-Pale?style=for-the-badge
 [license-url]: https://github.com/seangoats/Ariake-Pale/blob/master/LICENSE
-
-
-
-
-
-
-
-
-
-
