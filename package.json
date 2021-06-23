@@ -1,7 +1,7 @@
 {
 	"name": "ariake-pale",
-	"displayName": "Ariake-Pale",
-	"description": "",
+	"displayName": "Ariake Pale Theme",
+	"description": "A hybrid theme adapted from Ariake Dark and Palenight",
 	"version": "0.1.0",
 	"engines": {
 		"vscode": "^1.57.0"
@@ -18,5 +18,9 @@
 			}
 		]
 	},
-	"publisher": "seangoats"
+	"publisher": "seangoats",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/seangoats/Ariake-Pale"
+	}
 }
