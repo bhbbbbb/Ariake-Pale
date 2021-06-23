@@ -2,7 +2,7 @@
 	"name": "ariake-pale",
 	"displayName": "Ariake Pale Theme",
 	"description": "A hybrid theme adapted from Ariake Dark and Palenight",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"engines": {
 		"vscode": "^1.57.0"
 	},
