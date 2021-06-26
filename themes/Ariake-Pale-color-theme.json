@@ -712,6 +712,18 @@
 			"settings": {
 				"foreground": "#B267E6"
 			}
+		},
+		{
+			"scope": "string.template",
+			"settings": {
+				"foreground": "#9AEFEA"
+			}
+		},
+		{
+			"scope": "punctuation.definition.template-expression.begin, punctuation.definition.template-expression.end",
+			"settings": {
+				"foreground": "#85B1E0"
+			}
 		}
 	]
 }
